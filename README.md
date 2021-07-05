@@ -3,10 +3,11 @@
 [[Interpolation]]
 [[Property Binding]]
 [[Event Binding]]
-
 [[Communication Btw Compoments]]
 [[View encapsulation]]
 [[Using Local References in Templates]]
 [[@ViewChild]]
-[[Using <ng-content>]]
 [[Component Lifecycle]]
+[[Attribute Vs Structural directives]]
+[[Creating Basic Attribute Directive]]
+[[Using <ng-content>]]
